@@ -1,1 +1,2 @@
-# auto-tests-course
+# auto-tests-cours
+stepik homework
